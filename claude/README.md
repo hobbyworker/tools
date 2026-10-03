@@ -4,6 +4,11 @@
 
 Guide (10 languages): <https://hobbyworker.me/en/dev/2026-10-05-claude-code-remote-control-script-1-setup-and-usage/>
 
+How it works, with the code:
+
+- [Part 2: Starting servers inside tmux](https://hobbyworker.me/en/dev/2026-10-06-claude-code-remote-control-script-2-starting-servers-in-tmux/) (published on 2026-10-06)
+- [Part 3: Checking status and detecting prompts](https://hobbyworker.me/en/dev/2026-10-07-claude-code-remote-control-script-3-status-and-prompt-detection/) (published on 2026-10-07)
+
 ## What it does
 
 - Runs `claude remote-control` in its own tmux server (socket `claude-rc`), one tmux session per folder
