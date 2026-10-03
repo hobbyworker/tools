@@ -2,7 +2,7 @@
 
 `remote-control.sh` runs [Claude Code Remote Control](https://code.claude.com/docs/en/remote-control) servers inside tmux and turns them on and off for each folder. While a server runs, you can keep working in that folder from the Claude app (iOS, Android) or [claude.ai/code](https://claude.ai/code), even after you close the terminal.
 
-Guide (10 languages): <https://hobbyworker.me/en/dev/2026-10-04-claude-code-remote-control-script/>
+Guide (10 languages): <https://hobbyworker.me/en/dev/2026-10-05-claude-code-remote-control-script-1-setup-and-usage/>
 
 ## What it does
 

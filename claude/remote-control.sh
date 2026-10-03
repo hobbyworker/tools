@@ -9,7 +9,7 @@
 # each folder by name.
 #
 #   Source:  https://github.com/hobbyworker/tools/tree/main/claude
-#   Guide:   https://hobbyworker.me/en/dev/2026-10-04-claude-code-remote-control-script/
+#   Guide:   https://hobbyworker.me/en/dev/2026-10-05-claude-code-remote-control-script-1-setup-and-usage/
 #   Needs:   bash 3.2+, tmux 3.0+, Claude Code signed in with a claude.ai
 #            Pro, Max, Team or Enterprise plan
 #   License: MIT
