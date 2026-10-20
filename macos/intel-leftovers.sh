@@ -13,7 +13,7 @@
 # never ran either of them, so they do not work on Apple silicon even now.
 #
 #   Source:  https://github.com/hobbyworker/tools/tree/main/macos
-#   Guide:   https://hobbyworker.me/en/dev/2026-11-05-find-what-needs-rosetta-before-macos-28/
+#   Guide:   https://hobbyworker.me/en/dev/2026-11-10-find-what-needs-rosetta-before-macos-28/
 #   Needs:   macOS 11+ on Apple silicon, bash 3.2+ (nothing to install)
 #   License: MIT
 #

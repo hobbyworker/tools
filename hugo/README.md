@@ -2,12 +2,12 @@
 
 `hugo-lc.sh` runs `hugo server` for several Hugo sites in the background, each on a port you choose, and turns them on and off by name. The servers keep running after you close the terminal, and `hugo-lc` alone shows which ones are up and where.
 
-Guide (13 languages): <https://hobbyworker.me/en/dev/2026-11-06-hugo-preview-server-script-1-setup-and-usage/> (published on 2026-11-06)
+Guide (13 languages): <https://hobbyworker.me/en/dev/2026-11-11-hugo-preview-server-script-1-setup-and-usage/> (published on 2026-11-11)
 
 How it works, with the code:
 
-- [Part 2: Starting in the background and keeping the PID](https://hobbyworker.me/en/dev/2026-11-07-hugo-preview-server-script-2-starting-in-the-background/) (published on 2026-11-07)
-- [Part 3: Checking status and stopping safely](https://hobbyworker.me/en/dev/2026-11-08-hugo-preview-server-script-3-status-and-stopping/) (published on 2026-11-08)
+- [Part 2: Starting in the background and keeping the PID](https://hobbyworker.me/en/dev/2026-11-12-hugo-preview-server-script-2-starting-in-the-background/) (published on 2026-11-12)
+- [Part 3: Checking status and stopping safely](https://hobbyworker.me/en/dev/2026-11-13-hugo-preview-server-script-3-status-and-stopping/) (published on 2026-11-13)
 
 ## What it does
 

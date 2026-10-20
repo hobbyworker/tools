@@ -15,7 +15,7 @@ Apple keeps Rosetta 2 as a general-purpose tool through macOS 27. From macOS 28 
 - Wine / Game Porting Toolkit prefixes, CrossOver bottles, Docker Desktop and Colima Rosetta settings, an Intel Homebrew at `/usr/local`
 - processes running under Rosetta right now
 
-Guide (13 languages): <https://hobbyworker.me/en/dev/2026-11-05-find-what-needs-rosetta-before-macos-28/> (published on 2026-11-05)
+Guide (13 languages): <https://hobbyworker.me/en/dev/2026-11-10-find-what-needs-rosetta-before-macos-28/> (published on 2026-11-10)
 
 ```sh
 ./intel-leftovers.sh             # Intel-only items

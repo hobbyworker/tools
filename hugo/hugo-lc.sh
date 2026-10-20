@@ -8,7 +8,7 @@
 # — or do that for every site at once with "all".
 #
 #   Source:  https://github.com/hobbyworker/tools/tree/main/hugo
-#   Guide:   https://hobbyworker.me/en/dev/2026-11-06-hugo-preview-server-script-1-setup-and-usage/
+#   Guide:   https://hobbyworker.me/en/dev/2026-11-11-hugo-preview-server-script-1-setup-and-usage/
 #   Needs:   bash 3.2+, hugo (and go when the site uses Hugo Modules),
 #            curl and lsof (both come with macOS). Made on macOS; on Linux,
 #            "open" uses xdg-open.
